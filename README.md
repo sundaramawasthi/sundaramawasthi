@@ -8,11 +8,11 @@
 
 
 
-![Shivam awasthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sundaramawasthi&show_icons=true&theme=radical)
+![sundaram awasthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sundaramawasthi&show_icons=true&theme=radical)
 <br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivam05241&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sundaramawasthi&theme=radical)](https://git.io/streak-stats)
 <br/>
-![Most Language Used](https://github-readme-stats.vercel.app/api/top-langs?username=shivam05241&show_icons=true&locale=en&layout=compact)
+![Most Language Used](https://github-readme-stats.vercel.app/api/top-langs?username=sundaramawasthi&show_icons=true&locale=en&layout=compact)
 
 
  <h3 align="left"> 📫 Connect with me:</h3>
