@@ -25,13 +25,6 @@
 
 <br /> <br />
 
-<h3 align="left">Coding Platforms</h3>
- <p align="left">
-
-<!-- <a href="https://www.codechef.com/users/sawasthi"><img src="https://s3.amazonaws.com/codechef_shared/misc/fb-image-icon.png" alt="Smiley face" height ="100"  width="100">
- <a href="https://leetcode.com/Sundram_Awasthi/"><img src="  " alt="Smiley face" height ="100" width="100"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p> -->
-<br /> <br />
 
 
 
