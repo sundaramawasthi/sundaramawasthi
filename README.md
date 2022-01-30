@@ -9,16 +9,6 @@
 📚I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.<br>
 <hr>
 <br>
-<hr>
-
-![sundaram awasthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sundaramawasthi&show_icons=true&theme=radical)
-<br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sundaramawasthi&theme=radical)](https://git.io/streak-stats)
-
-- 🚀 Skills : **FLUTTER** | **Firebase** | **Dart** | **C++** | **DevOps**| **OPENSOURCE enthusiasm | NETWOKING | LINUX | Oops |
-<br/> <br/>
-
-
 
 ## Contribution Graph 📊
  <br>
@@ -26,6 +16,20 @@
 <img
      src="https://activity-graph.herokuapp.com/graph?username=sundaramawasthi&theme=chartreuse-dark"
      />
+
+<GITHUB STAR >
+![sundaram awasthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sundaramawasthi&show_icons=true&theme=radical)
+<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sundaramawasthi&theme=radical)](https://git.io/streak-stats)
+
+- 🚀 Skills : **FLUTTER** | **Firebase** | **Dart** | **C++** | **DevOps**| **OPENSOURCE enthusiasm | NETWOKING | LINUX | Oops |
+<br/> <br/>
+
+## Languages 📝
+![Most Language Used](https://github-readme-stats.vercel.app/api/top-langs?username=sundaramawasthi&show_icons=true&locale=en&layout=compact)
+
+
+
 
 
  <h3 align="left"> 📫 Connect with me:</h3>
@@ -39,9 +43,6 @@
 [![Showwcase Badge](https://img.shields.io/badge/Showwcase-black?style=flat&labelColor=000000&logo=showwcase&logoColor=white&link=https://www.showwcase.com/sundramawasthi)](https://www.showwcase.com/sundramawasthi)
 
 <br/>
-
-## Languages 📝
-![Most Language Used](https://github-readme-stats.vercel.app/api/top-langs?username=sundaramawasthi&show_icons=true&locale=en&layout=compact)
 
 
 <hr>
