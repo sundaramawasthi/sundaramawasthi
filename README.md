@@ -47,9 +47,7 @@
 <img
      src="https://activity-graph.herokuapp.com/graph?username=sundaramawasthi&theme=chartreuse-dark"
      />
-## Stats 📈
-<p align="center">
-     <p/>
+
 
 
 
