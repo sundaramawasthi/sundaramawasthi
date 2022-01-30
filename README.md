@@ -1,9 +1,15 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Sundaram here
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Sundram Awasthi.
 
 <h3 align="left"><img src ="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" /></h3>
 
 
-- 🚀 Skills : **FLUTTER** | **Firebase** | **Dart** | **C++** | **Competitive Coding**
+🎓I am a **Sundram Awathi**, pursuing Bachelors in **Computer Science and Engineering**. <br>
+💡I am currently Pursuing  fluter developer Intern at GREETSAPP. 
+💡 focusing on **DevOPs** and  A *beginner* contributor at **Open Source**. <br>
+📚I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
+
+
+- 🚀 Skills : **FLUTTER** | **Firebase** | **Dart** | **C++** | **DevOps**| **OPENSOURCE enthusiasm | NETWOKING | LINUX 
 <br/> <br/>
 
 
@@ -21,16 +27,12 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a> 
 <a href="mailto:mailtosundram@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href ="https://www.showwcase.com/sundramawasthi"/>
  </p>
 
 <br /> <br />
 
 
-# Hi there, I'm Samadrita Shaw <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-## About 👋
-🎓I am a **sophomore**, pursuing Bachelors in **Computer Science and Engineering**. <br>
-💡I am currently focusing on **Data Structures and Algorithm** in *Java*. A *beginner* contributor at **Open Source**. <br>
-📚I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/shawsamadrita)](https://twitter.com/shawsamadrita)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-darkblue?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/samadrita-shaw-640865205/)](https://www.linkedin.com/in/samadrita-shaw-640865205/)
@@ -41,7 +43,7 @@
 
 ## Languages 📝
 <img
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samadrita-Shaw&layout=compact&theme=tokyonight"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=sundramawasthi&layout=compact&theme=tokyonight"
      />
 ## Contribution Graph 📊
 <img
