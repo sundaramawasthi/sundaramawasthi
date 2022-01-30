@@ -17,7 +17,7 @@
      src="https://activity-graph.herokuapp.com/graph?username=sundaramawasthi&theme=chartreuse-dark"
      />
 
-<GITHUB STAR >
+
 ![sundaram awasthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sundaramawasthi&show_icons=true&theme=radical)
 <br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sundaramawasthi&theme=radical)](https://git.io/streak-stats)
