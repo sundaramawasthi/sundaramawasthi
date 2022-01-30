@@ -33,7 +33,7 @@
 
  
  
- <hr>
+ <hr></hr>
 ## Languages 📝
 ![Most Language Used](https://github-readme-stats.vercel.app/api/top-langs?username=sundaramawasthi&show_icons=true&locale=en&layout=compact)
 
