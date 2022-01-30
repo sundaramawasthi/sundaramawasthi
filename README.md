@@ -20,7 +20,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sundaramawasthi&theme=radical)](https://git.io/streak-stats)
 <br/>
 
-<hr>
+
 
  <h3 align="left"> 📫 Connect with me:</h3>
  <p align="centre">
@@ -31,9 +31,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-darkblue?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sundram-awasthi-97603b20b/)](https://www.linkedin.com/in/sundram-awasthi-97603b20b/)
 [![Mail Badge](https://img.shields.io/badge/Gmail-orange?style=flat&labelColor=c0392b&logo=gmail&logoColor=white&mailto=mailtosundram@gmail.com)](mailto:mailtosundram@gmail.com)
 [![Showwcase Badge](https://img.shields.io/badge/Showwcase-black?style=flat&labelColor=000000&logo=showwcase&logoColor=white&link=https://www.showwcase.com/sundramawasthi)](https://www.showwcase.com/sundramawasthi)
-<hr>
+
 <br/>
-<hr>
+
 ## Languages 📝
 ![Most Language Used](https://github-readme-stats.vercel.app/api/top-langs?username=sundaramawasthi&show_icons=true&locale=en&layout=compact)
 <hr>
