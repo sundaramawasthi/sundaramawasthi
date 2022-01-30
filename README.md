@@ -9,7 +9,7 @@
 📚I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.<br>
 <hr>
 <br>
-- 🚀 Skills : **FLUTTER** | **Firebase** | **Dart** | **C++** | **DevOps**| **OPENSOURCE enthusiasm | NETWOKING | LINUX 
+- 🚀 Skills : **FLUTTER** | **Firebase** | **Dart** | **C++** | **DevOps**| **OPENSOURCE enthusiasm | NETWOKING | LINUX | Oops |
 <br/> <br/><hr>
 
 
