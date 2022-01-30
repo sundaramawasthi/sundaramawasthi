@@ -60,4 +60,5 @@
 
 
 
+**Page Views**(Counting since 30th Nov 2020): ![Visitor Count](https://profile-counter.glitch.me/atapas/count.svg)
 
