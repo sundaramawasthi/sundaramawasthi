@@ -23,22 +23,17 @@
 
  <h3 align="left"> 📫 Connect with me:</h3>
  <p align="left">
-<a href ="https://www.linkedin.com/in/sundram-awasthi-97603b20b/"> 
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a> 
-<a href="mailto:mailtosundram@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href ="https://www.showwcase.com/sundramawasthi"/>
- </p>
+
 
 <br /> <br />
 
 
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/shawsamadrita)](https://twitter.com/shawsamadrita)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-darkblue?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/samadrita-shaw-640865205/)](https://www.linkedin.com/in/samadrita-shaw-640865205/)
-[![Mail Badge](https://img.shields.io/badge/Gmail-orange?style=flat&labelColor=c0392b&logo=gmail&logoColor=white&mailto=shawsamadrita@gmail.com)](mailto:shawsamadrita@gmail.com)
-[![Showwcase Badge](https://img.shields.io/badge/Showwcase-black?style=flat&labelColor=000000&logo=showwcase&logoColor=white&link=https://www.showwcase.com/samadrita)](https://www.showwcase.com/samadrita)
-[![Hashnode badge](https://img.shields.io/badge/Hashnode-violet?style=flat&labelColor=C55FFC&logo=blog&logoColor=white&link=https://samadritashaw.hashnode.dev/)](https://samadritashaw.hashnode.dev/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SundaramThe)](https://twitter.com/SundaramThe)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-darkblue?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sundram-awasthi-97603b20b/)](https://www.linkedin.com/in/sundram-awasthi-97603b20b/)
+[![Mail Badge](https://img.shields.io/badge/Gmail-orange?style=flat&labelColor=c0392b&logo=gmail&logoColor=white&mailto=mailtosundram@gmail.com)](mailto:mailtosundram@gmail.com)
+[![Showwcase Badge](https://img.shields.io/badge/Showwcase-black?style=flat&labelColor=000000&logo=showwcase&logoColor=white&link=https://www.showwcase.com/sundramawasthi)](https://www.showwcase.com/sundramawasthi)
+
 <br/>
 
 ## Languages 📝
