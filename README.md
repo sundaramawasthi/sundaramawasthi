@@ -4,13 +4,14 @@
 
 
 🎓I am a **Sundram Awathi**, pursuing Bachelors in **Computer Science and Engineering**. <br>
-💡I am currently Pursuing  fluter developer Intern at GREETSAPP. 
+💡I am currently Pursuing  fluter developer Intern at GREETSAPP. <br>
 💡 focusing on **DevOPs** and  A *beginner* contributor at **Open Source**. <br>
-📚I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
+📚I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.<br>
 
-
+<br>
+<hr>
 - 🚀 Skills : **FLUTTER** | **Firebase** | **Dart** | **C++** | **DevOps**| **OPENSOURCE enthusiasm | NETWOKING | LINUX 
-<br/> <br/>
+<br/> <br/><hr>
 
 
 
@@ -18,7 +19,7 @@
 <br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sundaramawasthi&theme=radical)](https://git.io/streak-stats)
 <br/>
-![Most Language Used](https://github-readme-stats.vercel.app/api/top-langs?username=sundaramawasthi&show_icons=true&locale=en&layout=compact)
+
 
 
  <h3 align="left"> 📫 Connect with me:</h3>
@@ -36,6 +37,8 @@
 ## Languages 📝
 ![Most Language Used](https://github-readme-stats.vercel.app/api/top-langs?username=sundaramawasthi&show_icons=true&locale=en&layout=compact)
 ## Contribution Graph 📊
+ <br>
+ <br>
 <img
      src="https://activity-graph.herokuapp.com/graph?username=sundaramawasthi&theme=chartreuse-dark"
      />
