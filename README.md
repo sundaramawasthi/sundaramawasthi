@@ -45,7 +45,7 @@
      />
 ## Contribution Graph 📊
 <img
-     src="https://activity-graph.herokuapp.com/graph?username=Sundramawasthi&theme=chartreuse-dark"
+     src="https://activity-graph.herokuapp.com/graph?username=sundaramawasthi&theme=chartreuse-dark"
      />
 ## Stats 📈
 <p align="center">
