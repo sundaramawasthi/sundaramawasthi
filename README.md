@@ -4,8 +4,11 @@
 
 
 🎓I am a **Sundram Awasthi**, Pursuing Bachelors in **Computer Science and Engineering**. <br>
+
 💡I am currently Pursuing  **fluter developer Intern** at GREETSAPP. <br>
+
 💡Focusing on **DevOPs** and  A *beginner* contributor at **Open Source**. <br>
+
 📚I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.<br>
 <hr>
 <br>
@@ -18,6 +21,9 @@
      />
 
 
+## Stats 📈
+<p align="center"> 
+ 
 ![sundaram awasthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sundaramawasthi&show_icons=true&theme=radical)
 <br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sundaramawasthi&theme=radical)](https://git.io/streak-stats)
