@@ -22,8 +22,8 @@
 
 
  <h3 align="left"> 📫 Connect with me:</h3>
- <p align="center">
-<p> NICE TO MEET U !>
+ <p align="centre">
+<p> NICE TO MEET U !
  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SundaramThe)](https://twitter.com/SundaramThe)
