@@ -34,9 +34,7 @@
 <br/>
 
 ## Languages 📝
-<img
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=sundaramawasthi &layout=compact&theme=tokyonight"
-     />
+![Most Language Used](https://github-readme-stats.vercel.app/api/top-langs?username=sundaramawasthi&show_icons=true&locale=en&layout=compact)
 ## Contribution Graph 📊
 <img
      src="https://activity-graph.herokuapp.com/graph?username=sundaramawasthi&theme=chartreuse-dark"
