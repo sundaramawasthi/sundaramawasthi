@@ -22,12 +22,9 @@
 
 
  <h3 align="left"> 📫 Connect with me:</h3>
- <p align="left">
-
-
-<br /> <br />
-
-
+ <p align="center">
+<p> NICE TO MEET U !>
+ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/SundaramThe)](https://twitter.com/SundaramThe)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-darkblue?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sundram-awasthi-97603b20b/)](https://www.linkedin.com/in/sundram-awasthi-97603b20b/)
@@ -38,7 +35,7 @@
 
 ## Languages 📝
 <img
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=sundramawasthi&layout=compact&theme=tokyonight"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=sundaramawasthi &layout=compact&theme=tokyonight"
      />
 ## Contribution Graph 📊
 <img
