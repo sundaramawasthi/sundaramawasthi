@@ -21,7 +21,6 @@
 > Flutter app that scans and enhances images using camera access, cropping, and filters.
 
 ### 📄 [FRESHER](https://github.com/sundaramawasthi/FRESHER)  
-> A LaTeX resume template for college freshers and developers. One-page, ATS-friendly, and easy to edit or compile in Overleaf.
 
 ---
 
