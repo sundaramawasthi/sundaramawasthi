@@ -22,7 +22,14 @@
 
 ### 📄 [FRESHER](https://github.com/sundaramawasthi/FRESHER)  
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-Flutter-blue?style=flat-square&logo=flutter" />
+  <img src="https://img.shields.io/badge/Tools-Firebase-orange?style=flat-square&logo=firebase" />
+  <img src="https://img.shields.io/badge/Language-Dart-0175C2?style=flat-square&logo=dart" />
+  <img src="https://img.shields.io/badge/Version%20Control-Git-green?style=flat-square&logo=git" />
+  <img src="https://img.shields.io/badge/Platform-GitHub-181717?style=flat-square&logo=github" />
+</p>
+
 
 ## 📫 Connect with Me
 - [LinkedIn](https://linkedin.com/in/sundram-awasthi-97603b20b)  
