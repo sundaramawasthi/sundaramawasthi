@@ -23,6 +23,11 @@
 ### 📄 [FRESHER](https://github.com/sundaramawasthi/FRESHER)  
 
 <p align="center">
+  <img src="your-banner.png" alt="Sundram Awasthi GitHub Banner" />
+</p>
+
+
+<p align="center">
   <img src="https://img.shields.io/badge/Frontend-Flutter-blue?style=flat-square&logo=flutter" />
   <img src="https://img.shields.io/badge/Tools-Firebase-orange?style=flat-square&logo=firebase" />
   <img src="https://img.shields.io/badge/Language-Dart-0175C2?style=flat-square&logo=dart" />
