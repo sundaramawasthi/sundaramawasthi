@@ -21,11 +21,7 @@
 > Flutter app that scans and enhances images using camera access, cropping, and filters.
 
 ### 📄 [FRESHER](https://github.com/sundaramawasthi/FRESHER)  
-
-<p align="center">
-  <img src="your-banner.png" alt="Sundram Awasthi GitHub Banner" />
-</p>
-
+> Flutter project that help college student.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-Flutter-blue?style=flat-square&logo=flutter" />
