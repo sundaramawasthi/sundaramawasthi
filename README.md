@@ -4,39 +4,28 @@
 
 💡 I'm passionate about building smooth, responsive mobile and web UIs using Flutter. I love exploring new technologies like Web3, contributing to real-world projects, and learning by doing.
 
----
 
 ## 🛠️ Tech Stack
-
-- **Languages:** Dart, Python, C
-- **Frameworks:** Flutter (Mobile & Web), Firebase
-- **Tools:** Git, GitHub, Android Studio, Postman, Figma, VS Code
-- **Soft Skills:** Collaboration, Time Management, UI/UX Thinking
+- **Languages:** Dart, Python, C  
+- **Frameworks:** Flutter (Mobile & Web), Firebase  
+- **Tools:** Git, GitHub, Android Studio, Postman, VS Code, Figma
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 [SMARTBOT](https://github.com/sundaramawasthi/smartbot)
-> Voice-controlled Python assistant using Speech Recognition & TTS.
+### 🔹 [SMARTBOT](https://github.com/sundaramawasthi/SMARTBOT)  
+> A voice-controlled assistant in Python that uses speech recognition and TTS to respond to commands.
 
-- Built with Python & various speech/voice libraries.
-- Performs real-time voice interactions.
-- Basic NLP and command parsing.
+### 🔹 [IMG_SCANNER](https://github.com/sundaramawasthi/IMG_SCANNER)  
+> Flutter app that scans and enhances images using camera access, cropping, and filters.
 
----
-
-### 🔹 [IMG_SCANNER](https://github.com/sundaramawasthi/IMG_SCANNER)
-> Flutter mobile app to scan, crop, and enhance images.
-
-- Uses camera, image cropping, and filters.
-- Clean Material UI.
-- Ideal for basic document scanning.
+### 📄 [FRESHER](https://github.com/sundaramawasthi/FRESHER)  
+> A LaTeX resume template for college freshers and developers. One-page, ATS-friendly, and easy to edit or compile in Overleaf.
 
 ---
 
-## 📫 Let's Connect
-
-- [LinkedIn](https://linkedin.com/in/sundram-awasthi-97603b20b)
+## 📫 Connect with Me
+- [LinkedIn](https://linkedin.com/in/sundram-awasthi-97603b20b)  
+- 📧 sundram.awasthi@gmail.com  
 - [GitHub](https://github.com/sundaramawasthi)
-- 📧 sundram.awasthi@gmail.com
