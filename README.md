@@ -14,14 +14,16 @@
 
 ## 🚀 Featured Projects
 
+### 📄 [FRESHER](https://github.com/sundaramawasthi/FRESHER)  
+> Flutter project that help college student.
+
+
 ### 🔹 [SMARTBOT](https://github.com/sundaramawasthi/SMARTBOT)  
 > A voice-controlled assistant in Python that uses speech recognition and TTS to respond to commands.
 
 ### 🔹 [IMG_SCANNER](https://github.com/sundaramawasthi/IMG_SCANNER)  
 > Flutter app that scans and enhances images using camera access, cropping, and filters.
 
-### 📄 [FRESHER](https://github.com/sundaramawasthi/FRESHER)  
-> Flutter project that help college student.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-Flutter-blue?style=flat-square&logo=flutter" />
