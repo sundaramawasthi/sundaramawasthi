@@ -39,4 +39,4 @@
 - 📧 sundram.awasthi@gmail.com  
 - [GitHub](https://github.com/sundaramawasthi)
 
-<img src="https://count.getloli.com/get/@sundaramawasthi.readme?theme=rule34" alt="Visitor Count" />
+<img src="https://count.getloli.com/get/@sundaramawasthi.readme?theme=default" alt="Visitor Count" />
