@@ -8,7 +8,7 @@
 ## 🛠️ Tech Stack
 - **Languages:** Dart, Python, C  
 - **Frameworks:** Flutter (Mobile & Web), Firebase  
-- **Tools:** Git, GitHub, Android Studio, Postman, VS Code, Figma
+- **Tools:** Git, GitHub, Android Studio, VS Code, Figma
 
 ---
 
